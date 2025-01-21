@@ -1,6 +1,6 @@
-# FLS-ROS2-Humble
+# Multibeam-Sonar-ROS2-Humble
 
-A ROS2 migration of the [nps_uw_multibeam_sonar package](https://github.com/Field-Robotics-Lab/nps_uw_multibeam_sonar) for the  Blueview p900 multibeam sonar. 
+A ROS2 migration of the [nps_uw_multibeam_sonar package](https://github.com/Field-Robotics-Lab/nps_uw_multibeam_sonar) for the  Blueview p900 multibeamc, Oculus m1200d and Seabat f50 multibeam sonars. 
 
 ## Requirements
 
@@ -63,7 +63,7 @@ ros2 launch nps_uw_multibeam_sonar sonar_tank_blueview_p900_nps_multibeam.launch
 
 ---
 
-# Sonar-ROS2-Humble
+# nps_uw_multibeam_sonar-ROS2-Humble
 Multibeam sonar Gazebo plugin with NVIDIA Cuda library 
 
 ## Wiki
