@@ -34,8 +34,8 @@ sudo apt-get install ros-humble-gazebo-plugins
 ### Step 2: Create a Workspace and Clone Necessary Packages
 Create a new workspace, navigate to the src directory, and clone the required repositories:
 ```bash
-mkdir -p sonar_ros2/src
-cd sonar_ros2/src
+mkdir -p nps_ros2/src
+cd nps_ros2/src
 
 git clone https://github.com/Abinesh-Thankaraj/nps_uw_multibeam_sonar.git
 git clone https://github.com/Abinesh-Thankaraj/hydrographic_msgs.git
