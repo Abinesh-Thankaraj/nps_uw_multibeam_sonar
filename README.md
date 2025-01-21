@@ -1,6 +1,6 @@
 # Multibeam-Sonar-ROS2-Humble
 
-A ROS2 migration of the [nps_uw_multibeam_sonar package](https://github.com/Field-Robotics-Lab/nps_uw_multibeam_sonar) for the  Blueview p900 multibeamc, Oculus m1200d and Seabat f50 multibeam sonars. 
+A ROS2 migration of the [nps_uw_multibeam_sonar package](https://github.com/Field-Robotics-Lab/nps_uw_multibeam_sonar) for the  Blueview p900, Oculus m1200d and Seabat f50 multibeam sonars. 
 
 ## Requirements
 
